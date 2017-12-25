@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "22762413566",
+    "firebase_url": "https://socialmediaapp-69d21.firebaseio.com",
+    "project_id": "socialmediaapp-69d21",
+    "storage_bucket": "socialmediaapp-69d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762413566:android:5e5b2e63a6bedc05",
+        "android_client_info": {
+          "package_name": "com.example.vora.darsh.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22762413566-ih24ssdv4j5b31om9qfqub7l1fh6e7sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vora.darsh.socialmediaapp",
+            "certificate_hash": "fe1cb4f40cbc8fe4acc1e8101598f9523a85d7e3"
+          }
+        },
+        {
+          "client_id": "22762413566-6a9q8rfj7kps23nrppems41opa1f3j5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFGkQzJ_R3LKHsZMOBeOhbdlMkn0x4fqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22762413566-6a9q8rfj7kps23nrppems41opa1f3j5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
